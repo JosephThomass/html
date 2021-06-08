@@ -1,6 +1,6 @@
 /* import fonts from fonts.css file */ 
 @import url(./fonts.css);
-/* * css variables */
+/*  css variables */
 @import url(./partials/_variables.css);
 
 
@@ -15,7 +15,7 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    font: normal 600 30px/2px var(--roboto);
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
