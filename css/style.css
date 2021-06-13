@@ -168,4 +168,34 @@
 }
 
 /* End Brand Area */ 
+/* skill area */
 
+.skill{
+    width: 500px;
+    margin: 60px auto;
+    color:rgb(0, 0, 0);
+   
+}
+.skill li{
+    margin: 20px;
+
+}
+.bar{
+    background: #00000098;
+    display: block;
+    height: 2px;
+    width: 1px solid rgba(0,0,0,0.3);
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #009fc798;
+}
+.bar span{
+    height: 2px;
+    float: left;
+    background: #0374c0;
+}
+.html{
+    width: 90%;
+}
+
+/* end skill area */
