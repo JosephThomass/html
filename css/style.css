@@ -14,15 +14,15 @@
 /* start navigation */ 
 
 .header_area .main-menu .navbar .navbar-brand{
-    padding: 0 50px 0 30px;
+  padding: 0 2rem 0 5rem;
 }
 
 .header_area .main-menu .navbar{
-    padding: .5rem 20rem ;
+  padding: 1rem 10rem ;
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 600 30px/2px var(--roboto);
+    font: normal 400 20px/2px var(--roboto);
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
@@ -94,7 +94,9 @@
 
 .site-main .about-area .about-title .paragraph > p{
     padding: .4rem 0;
+  
 }
+/* end about area */
 /* Start Brand Area */ 
 
 .site-main .brand-area{
@@ -171,7 +173,6 @@
 /* End Brand Area */ 
 /* skill area */
 
-/* end skill area */
 
 .skill section{
     position: relative;
@@ -319,6 +320,8 @@
   .contact{
     padding: 0px 4px 0px 3px;
   }
+  /* end skill area */
+
   /* Footer Area */ 
 
 footer.footer-area{
